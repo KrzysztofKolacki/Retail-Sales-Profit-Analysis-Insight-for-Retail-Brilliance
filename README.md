@@ -1,4 +1,4 @@
-# Python for Retail Sales & Profit Analysis
+# Retail Sales & Profit Analysis: Insight for Retail Brilliance
 
 Welcome to a repository that simplifies store performance insights and empower retailers and analysts to:
 
