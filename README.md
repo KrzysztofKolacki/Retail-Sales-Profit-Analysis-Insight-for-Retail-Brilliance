@@ -2,7 +2,7 @@
 
 Welcome to a repository born out of a passion for transforming retail analytics. Here, we don’t just analyze data; we breathe life into retail numbers to empower decision-makers. This project was inspired by the real-world challenges faced by retailers and is tailored to offer practical, impactful insights.
 
-🌟 What Sets Us Apart?
+🌟 What Sets this project Apart?
 
 Innovative Analysis Techniques: Utilizing Python’s powerful analytical capabilities in novel ways to uncover hidden retail opportunities.
 Real-World Application: Developed with feedback from actual retail analysts, ensuring relevance and practicality.
